@@ -13,6 +13,6 @@ public class Main {
         System.out.println("Please enter your hobby:");
         String hobby = scanner.nextLine();
 
-
+        System.out.println("My name is: " + userName + "\nMy hobby is: " + hobby);
     }
 }
